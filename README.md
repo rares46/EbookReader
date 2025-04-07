@@ -3,8 +3,6 @@ OpenBook eBook Reader
 
 Dispozitivul e-book se bazeaza pe un microcontroller ESP32-C6 si include un afisaj E-Paper.
 
-### Diagrama Bloc
-
 [Diagrama Bloc](Images/diagram.png)
 
 `Diagrama bloc afiseaza componente:`
