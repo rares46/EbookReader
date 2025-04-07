@@ -50,6 +50,7 @@ Stocare
 | UART Debug             | IO20 (TX), IO21 (RX) | Conexiune seriala |
 | Ecran Type Select      | IO18, IO19           | Selectare tip e-paper |
 
-Bugs: La piesa SAMACSYS_PARTS_USB4110GFA erori de tip `Smd-hole` la partea de rutare a pcb ului.
+Bugs: La piesa SAMACSYS_PARTS_USB4110GFA erori cu Board OUtline Clearance, care sunt datorate piesei cel mai probabil si din cand in cand eorare de Overlap la fir. Daca scot firul si il pun la loc dispare.
+La piesa IND_4828-WE-TPC_WRE 2 erori Copper Width, care probabil sunt de la piesa.
   
-La directorul images din proiect sunt imagini cu schematic ul, pcb si 3d.
+La directorul images din proiect sunt imagini cu schematic ul, pcb si 3d si diagrama.
